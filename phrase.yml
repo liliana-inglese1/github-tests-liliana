@@ -1,0 +1,19 @@
+phrase:
+  access_token: 54a6505c0d4f8218bf81f09606ef0098302622dc7b64ba125779790c3d605b14
+  project_id: da89e1b2f22506c35c94d9bff5f647f1
+  file_format: simple_json
+  
+  push:
+    sources:
+      - file: ./simple_json.json
+        params:
+          file_format: simple_json
+          locale_id: en-GB
+          update_translations: true
+          autotranslate: true
+
+  pull:
+    targets:
+      - file: ./simple_json.json
+        params:
+          file_format: simple_json

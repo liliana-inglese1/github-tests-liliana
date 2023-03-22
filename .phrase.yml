@@ -1,6 +1,6 @@
 phrase:
-  access_token: 54a6505c0d4f8218bf81f09606ef0098302622dc7b64ba125779790c3d605b14
-  project_id: da89e1b2f22506c35c94d9bff5f647f1
+  access_token: 8e7d758f2ffe70fb7803917b81e90000d236ace20b698ca126ca0017ff1103bf
+  project_id: 47b1f46fd10f7f99a4ab6f1b5c726b7d
   file_format: simple_json
   
   push:

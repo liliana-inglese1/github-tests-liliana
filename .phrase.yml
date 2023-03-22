@@ -8,7 +8,7 @@ phrase:
       - file: ./simple_json.json
         params:
           file_format: simple_json
-          locale_id: en-GB
+          locale_id: en
           update_translations: true
           autotranslate: true
 

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "acp_test_7",
+    "translation": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words."
+  },
+  {
+    "id": "apc_test_1",
+    "translation": "Testing automated project creation... status: {state}"
+  },
+  {
+    "id": "apc_test_2",
+    "translation": "Testing automated project creation again..."
+  },
+  {
+    "id": "apc_test_3",
+    "translation": "Hello World!"
+  },
+  {
+    "id": "apc_test_4",
+    "translation": "MyBrand"
+  },
+  {
+    "id": "apc_test_5",
+    "translation": "Today is a great day for Machine Translation!"
+  },
+  {
+    "id": "apc_test_6",
+    "translation": "This is some more text. Please translate it."
+  },
+  {
+    "id": "apc_test_8",
+    "translation": "Today is such a great day!"
+  },
+  {
+    "id": "gitlab_key",
+    "translation": "This is from Gitlab!"
+  },
+  {
+    "id": "icu_plural",
+    "translation": "{nrOfChairs, plural, zero{There are no chairs.} one{There is one chair.} other{There are # chairs.}}"
+  },
+  {
+    "id": "my_key",
+    "translation": "This is a translation."
+  },
+  {
+    "id": "my_key_2",
+    "translation": "This is another translation."
+  },
+  {
+    "id": "my_key_3",
+    "translation": "This is yet another translation."
+  }
+]

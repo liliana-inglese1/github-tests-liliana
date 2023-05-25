@@ -34,3 +34,6 @@ She wanted a pet platypus but ended up getting a duck and a ferret instead.
 The quick brown fox jumps over the lazy dog.
 New updated segment no. 1
 And a New updated segment no. 2
+And a New updated segment no. 3 is added
+And a New updated segment no. 4 is created
+And a New updated segment no. 5 is edited

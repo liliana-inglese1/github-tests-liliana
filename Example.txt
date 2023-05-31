@@ -36,4 +36,6 @@ New updated segment no. 1
 And a New updated segment no. 2
 And a New updated segment no. 3 is added
 And a New updated segment no. 4 is created
-And a New updated segment no. 5 is edited
+And a New updated segment no. 5 is edited and changed on 31st May
+And a New updated segment no. 6 is edited and added to file
+And a New updated segment no. 7 is edited and added to file

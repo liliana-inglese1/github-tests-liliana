@@ -1,0 +1,10 @@
+{
+  "account.contactInfo": "Contact information",
+  "account.healthProfile": "Health profile",
+  "account.myAccount.subtitle": "Health profile and Settings",
+  "account.myAccount.title": "My Account",
+  "account.myKids": "My {count, plural, one {kid} other {kids}}",
+  "account.Cats": "{count, plural, one {I have cat} other {I have cats}}",
+  "account.photos": "You have {numPhotos, plural, offset:1 =0 {no photos.} =1 {one photo.} other {one and more # photos.}}",
+  "account.veryComplexPlural": "There {number, plural, one {is one chair for {x, plural, one {one person} other {# persons}}} other {are {number} chairs for {person, plural, one {one person} other {{person} persons}}}} in the {color, select, black {dark} white {light} other {color}} room."
+  }

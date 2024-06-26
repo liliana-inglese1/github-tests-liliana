@@ -4,15 +4,15 @@ phrase:
   
   push:
     sources:
-      - file: ./simple_json.json
+      - file: ./go_i18n.json
         params:
-          file_format: simple_json
+          file_format: go_i18n
           locale_id: en
           update_translations: true
           autotranslate: true
 
   pull:
     targets:
-      - file: ./simple_json.json
+      - file: ./go_i18n.json
         params:
-          file_format: simple_json
+          file_format: go_i18n

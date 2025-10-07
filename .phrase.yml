@@ -13,6 +13,6 @@ phrase:
 
   pull:
     targets:
-      - file: ./go_i18n.json
+      - file: ./<locale_name>/go_i18n_<locale_name>.json
         params:
           file_format: go_i18n

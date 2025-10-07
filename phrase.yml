@@ -1,0 +1,18 @@
+phrase:
+  access_token: 3a85b2b127aae8347e5784b3e2acbd103fabdab958cb5578ca615e6390f4d10d
+  project_id: 47b1f46fd10f7f99a4ab6f1b5c726b7d
+  
+  push:
+    sources:
+      - file: ./go_i18n.json
+        params:
+          file_format: go_i18n
+          locale_id: en
+          update_translations: true
+          autotranslate: true
+
+  pull:
+    targets:
+      - file: ./go_i18n.json
+        params:
+          file_format: go_i18n
